@@ -1,0 +1,10 @@
+reflex>=0.8.0
+fastapi>=0.115
+uvicorn[standard]>=0.30
+httpx[http2]>=0.27
+websockets>=12.0
+aiofiles>=23.2.1
+cryptography>=39.0.0
+psutil>=5.9.0
+redis>=5.0.1
+asyncpg>=0.29

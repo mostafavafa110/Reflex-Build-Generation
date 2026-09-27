@@ -1,0 +1,6 @@
+build-essential
+libssl-dev
+zlib1g-dev
+git
+curl
+ca-certificates
